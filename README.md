@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 0xGuigui and I'm a Cybersecurity redteamer, AdminSys, and sometimes developper from Haneto, Necluda - Hyrule</h2>
+<h2 align="left">Hi 👋! My name is 0xGuigui and I'm a Cybersecurity redteamer, AdminSys, and sometimes developper</h2>
 
 ###
 
